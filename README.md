@@ -1,7 +1,6 @@
 # Trust-wallet-ui-ux-design
 <h3>Project Bio – FinTrust Fintech Web Application</h3>
-___
-**Project Name:** FinTrust – Digital Payment & Wallet System
+Project Name: FinTrust – Digital Payment & Wallet System
 
 **Project Description:**
 
@@ -33,4 +32,4 @@ The application is designed to demonstrate the basic concepts of front-end web d
 
 **Objective:**
 
-The objective of this project is to understand the fundamentals of web application development by creating a fintech platform that demonstrates user authentication, digital wallet operations, responsive design, and interactive JavaScript functionality in a single-page application.
+The objective of this project is to understand the fundamentals of web application development by html , c++ and javascript.
