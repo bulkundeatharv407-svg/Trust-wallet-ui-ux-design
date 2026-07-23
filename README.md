@@ -1,6 +1,6 @@
 # Trust-wallet-ui-ux-design
 <h3>Project Bio – FinTrust Fintech Web Application</h3>
-
+---
 **Project Name:** FinTrust – Digital Payment & Wallet System
 
 **Project Description:**
