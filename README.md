@@ -10,7 +10,7 @@ FinTrust is a simple fintech web application developed using **HTML, CSS, and Ja
 The application is designed to demonstrate the basic concepts of front-end web development, user authentication, local storage, responsive user interface design, and interactive financial features. User data is stored locally using the browser's Local Storage, making the project suitable for learning and demonstration purposes without requiring a backend server.
 
 **Technologies Used:**
-<img src="https://img.icons8.com/?size=100&id=20909&format=png&color=000000"><img src="https://img.icons8.com/?size=100&id=13441&format=png&color=000000"><img src="https://img.icons8.com/?size=100&id=40669&format=png&color=000000">
+<img src="https://img.icons8.com/?size=100&id=20909&format=png&color=000000"><img src=""><img src="https://img.icons8.com/?https://img.icons8.com/?size=100&id=108784&format=png&color=000000size=100&id=40669&format=png&color=000000">
 * HTML5
 * CSS3
 * JavaScript (ES6)
