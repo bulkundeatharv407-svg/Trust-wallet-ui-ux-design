@@ -1,5 +1,5 @@
 # Trust-wallet-ui-ux-design
-# Project Bio – FinTrust Fintech Web Application
+<h3>Project Bio – FinTrust Fintech Web Application</h3>
 
 **Project Name:** FinTrust – Digital Payment & Wallet System
 
@@ -9,7 +9,7 @@ FinTrust is a simple fintech web application developed using **HTML, CSS, and Ja
 
 The application is designed to demonstrate the basic concepts of front-end web development, user authentication, local storage, responsive user interface design, and interactive financial features. User data is stored locally using the browser's Local Storage, making the project suitable for learning and demonstration purposes without requiring a backend server.
 
-**Technologies Used:**
+**Technologies Used:**<br>
 <img src="https://img.icons8.com/?size=100&id=20909&format=png&color=000000"><img src="https://img.icons8.com/?size=100&id=108784&format=png&color=000000"><img src="https://img.icons8.com/?size=100&id=40669&format=png&color=000000">
 * HTML5
 * CSS3
